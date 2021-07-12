@@ -7,10 +7,7 @@
 
 ## インストール方法
 
-以下のリンクから実行ファイル群をダウンロードしてください。
-
-`https://www.dropbox.com/s/c3r6k0m8rjkwrh7/MazeEscape.zip?dl=0`
-
+[ここ](https://www.dropbox.com/s/c3r6k0m8rjkwrh7/MazeEscape.zip?dl=0)から実行ファイル群をダウンロードしてください。
 
 
 ## 動作環境
