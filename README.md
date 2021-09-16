@@ -7,7 +7,7 @@
 
 ## インストール方法
 
-[ここ](https://www.dropbox.com/s/c3r6k0m8rjkwrh7/MazeEscape.zip?dl=0)から実行ファイル群をダウンロードしてください。
+[ここ](https://www.dropbox.com/sh/h23lhcyl0cwjlh5/AADIuiV0vj4hXrInV_j6YmOqa?dl=0)から実行ファイル群をダウンロードしてください。
 
 
 ## 動作環境
